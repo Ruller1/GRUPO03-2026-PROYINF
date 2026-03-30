@@ -10,4 +10,4 @@
 * **Tutor**: Javiera Osorio
 * **Profesor**: Luz Mariet Chourio
 
-* https://github.com/Ruller1/GRUPO03-2026-PROYINF.wiki.git
+* https://github.com/Ruller1/GRUPO03-2026-PROYINF/wiki
