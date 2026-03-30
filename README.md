@@ -6,6 +6,6 @@
 * Tomas Salinas Morales - Rol
 * Sebastian Saldias Rojas - Rol
 * Alejandro Diaz Araya - Rol
-* Maria Isabel Poblete - Rol
+* Maria Isabel Poblete - 202313567-4
 * **Tutor**: Javiera Osorio
 * **Profesor**: Luz Mariet Chourio
