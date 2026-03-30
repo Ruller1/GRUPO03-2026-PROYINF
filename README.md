@@ -9,3 +9,5 @@
 * Maria Isabel Poblete - 202313567-4
 * **Tutor**: Javiera Osorio
 * **Profesor**: Luz Mariet Chourio
+
+* https://github.com/Ruller1/GRUPO03-2026-PROYINF.wiki.git
