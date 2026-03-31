@@ -4,7 +4,7 @@
 ## Este es el repositorio del grupo 3
 * Nicolas Sepulveda Lynch - 202330517-0
 * Tomas Salinas Morales - Rol
-* Sebastian Saldias Rojas - Rol
+* Sebastian Saldias Rojas - 202430534-4
 * Alejandro Diaz Araya - Rol
 * Maria Isabel Poblete - 202313567-4
 * **Tutor**: Javiera Osorio
